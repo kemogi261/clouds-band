@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+.clouds img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    display: flex;    
+}
+
+.clouds {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.tagalign {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.kalimat {
+    width: 80%;
+    text-align: center;
+    color: white;
+}
+
+
